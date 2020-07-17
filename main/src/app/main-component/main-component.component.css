@@ -1,0 +1,59 @@
+.div {
+  display: grid;
+  font-size: 20px;
+}
+
+#a {
+  margin-top: 0;
+}
+
+#profile {
+  height: 70%;
+  width: 90%;
+}
+
+.pic {
+  width: 100%;
+  padding-right: 10%;
+  width: 100%;
+}
+
+
+.header {
+  display: flex;
+  justify-content: space-around;
+  padding: 5px;
+}
+
+#prograd {
+  height: 50px;
+}
+
+hr {
+  border: none;
+  width: 100%;
+  height: 50px;
+  box-shadow: 10px 10px 10px -10px black;
+  margin: -50px auto 10px;
+}
+
+.container {
+  display: flex;
+  width: 100%;
+  padding-left: 10%;
+}
+
+
+.text>h1 {
+  color: orangered;
+}
+
+.text>h2 {
+  color: orangered;
+  font-size: 20px;
+}
+
+.text {
+  padding-left: 5%;
+  padding-right: 5%;
+}

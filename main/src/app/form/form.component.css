@@ -1,0 +1,30 @@
+.form-check {
+  padding-right: 150px;
+  padding-left: 150px;
+  width: 300px;
+}
+
+.button {
+  width: 6em;
+  height: 2.5em;
+  background-color: orangered;
+  color: white;
+  font-weight: 100;
+}
+
+#input {
+  height: 100px;
+}
+
+form {
+  top: 50px;
+  width: 70%;
+  position: relative;
+  left: 200px;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  box-sizing: border-box;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  padding: 20px 20px;
+}
